@@ -204,6 +204,50 @@ body{
     margin: 0 auto;
     padding: 60px 20px;
 }
+.education {
+    padding: 100px 10%;
+    background: #081b29;
+    color: #ededed;
+}
+
+.section-title {
+    text-align: center;
+    font-size: 48px;
+    margin-bottom: 50px;
+}
+
+.education-box {
+    max-width: 700px;
+    margin: auto;
+    padding: 30px;
+    background: #051129;
+    border-radius: 15px;
+    box-shadow: 0 0 20px #0ef;
+}
+
+.education-box h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #0ef;
+}
+
+.education-box h4 {
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+
+.edu-year {
+    display: inline-block;
+    font-size: 16px;
+    color: #ccc;
+    margin-bottom: 15px;
+}
+
+.education-box p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #ddd;
+}
 
 .services-list{
     display: grid;
@@ -976,4 +1020,5 @@ section {
     font-size: 20px;
     padding: 10px;
     border-radius: 0.5rem;
+
 }
